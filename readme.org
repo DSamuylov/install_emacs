@@ -1,0 +1,1 @@
+This scripts installs and set basic emacs 24.*
