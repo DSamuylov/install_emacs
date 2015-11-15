@@ -3,10 +3,11 @@
 * Summary
 
 This script will install and customize Emacs with basic packages with
-a nice view. For more details check: `emacs.d/init-literate.org`
+a nice view. For more details check:
+=emacs.d/init-literate.org=
 
 Installation:
 
-#begin_src bash
+#+begin_src bash
 sh install_emacs.sh
-#end_src
+#+end_src
