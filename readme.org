@@ -1,1 +1,12 @@
-This scripts installs and set basic emacs 24.*
+#+Startup: content indent
+
+* Summary
+
+This script will install and customize Emacs with basic packages with
+a nice view. For more details check: `emacs.d/init-literate.org`
+
+Installation:
+
+#begin_src bash
+sh install_emacs.sh
+#end_src
